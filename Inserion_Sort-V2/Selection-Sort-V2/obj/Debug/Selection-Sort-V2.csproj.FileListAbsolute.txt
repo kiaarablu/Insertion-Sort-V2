@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\bin\Debug\Selection-Sort-V2.exe.config
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\bin\Debug\Selection-Sort-V2.exe
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\bin\Debug\Selection-Sort-V2.pdb
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\obj\Debug\Selection-Sort-V2.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\obj\Debug\Selection-Sort-V2.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\obj\Debug\Selection-Sort-V2.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\obj\Debug\Selection-Sort-V2.exe
+D:\kia prjc\tamrin\Selection-Sort-V2\Selection-Sort-V2\obj\Debug\Selection-Sort-V2.pdb
